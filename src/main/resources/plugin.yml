@@ -1,0 +1,9 @@
+name: NetCheck
+version: ${project.version}
+main: io.github.pheric.netcheck.NetCheck
+authors: [Pheric]
+commands:
+  netcheck:
+    usage: /netcheck <args>
+    description: Controls the NetCheck plugin
+    permission: netcheck.use

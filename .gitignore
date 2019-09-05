@@ -1,0 +1,8 @@
+*.class
+.idea/
+*.swp
+*.iml
+*.ipr
+*.iws
+target/
+test/
